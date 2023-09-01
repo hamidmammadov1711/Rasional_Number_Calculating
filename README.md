@@ -1,0 +1,2 @@
+# Rasional_Number_Calculating
+Rasional_Number_Calculating small library
